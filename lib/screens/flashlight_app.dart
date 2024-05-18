@@ -4,7 +4,6 @@ import 'package:flash_light/screens/settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:torch_controller/torch_controller.dart';
-import 'package:flash_light/utils/ads_helper.dart';
 
 class FlashLightApp extends StatefulWidget {
   const FlashLightApp({Key? key}) : super(key: key);
