@@ -1,16 +1,5 @@
-# flash_light
+# Flash Light with Flutter
 
-A new Flutter project.
+![unnamed](https://github.com/hdrfurkann/flutter-ios-calculator/assets/152205111/a1a59c93-5f21-4f37-bd69-3452805272de)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://play.google.com/store/apps/details?id=com.flash_light_lethforz&gl=TR
